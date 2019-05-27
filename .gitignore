@@ -31,8 +31,7 @@ build/_vendor/pkg
 /nodes/node1/tyslin/
 /nodes/premine/tyslin/
 /tyslin*.zip
-/nodes/node1/tyslin/
-/nodes/node1/keystore/
+
 # travis
 profile.tmp
 profile.cov
