@@ -25,6 +25,11 @@ build/_vendor/pkg
 # used by the Makefile
 /build/_workspace/
 /build/bin/
+/nodes/node1/tyslin/
+/nodes/node2/tyslin/
+/nodes/node3/tyslin/
+/nodes/node1/tyslin/
+/nodes/premine/tyslin/
 /tyslin*.zip
 /nodes/node1/tyslin/
 /nodes/node1/keystore/
